@@ -1,0 +1,20 @@
+#inputCountry {
+    width: 200px;
+    padding: 5px;
+}
+
+.forecast {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.currWeather {
+    margin-left: 20px;
+}
+
+#weatherNow {
+    display: flex;
+    flex-direction: row;
+    gap: 300px;
+}

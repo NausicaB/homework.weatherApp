@@ -1,0 +1,12 @@
+{
+    "list": [
+        {
+            "Descriere": "weather.description",
+            "Umiditate": "main.humidity",
+            "Presiune": "main.pressure",
+            "TemperaturaCurenta": "main.temp",
+            "MinimaZilei": "main.temp_min",
+            "MaximaZilei": "main.temp_max"
+        }
+    ]
+}

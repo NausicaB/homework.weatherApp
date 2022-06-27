@@ -26,7 +26,7 @@ urlCurrentWeather:
 urlForecastWeather: 
     "https://api.openweathermap.org/data/2.5/forecast?appid=69518b1f8f16c35f8705550dc4161056&units=metric&q=",
 urlWeatherIconPrefix: 
-    "http://openweathermap.org/img/w/"
+    "https://openweathermap.org/img/w/"
 }
 
 function drawWeather() {
@@ -172,10 +172,6 @@ async function getForecast() {
     console.log(list);
     drawForecast();
 }
-
-
-
-
 
 
 
